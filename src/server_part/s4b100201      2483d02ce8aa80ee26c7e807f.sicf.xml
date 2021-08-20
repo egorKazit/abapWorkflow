@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/apc/sap/S4B100201/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>S4B100201</ICF_NAME>
+    <ICFALIASNO>1</ICFALIASNO>
+    <ORIG_NAME>S4B100201</ORIG_NAME>
+    <ICFALTNME>ZYKZ_LX_DEMO_TCP_CHANNEL</ICFALTNME>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>S4B100201</ICF_NAME>
+    <ICF_LANGU>E</ICF_LANGU>
+    <ICF_DOCU>Generated APC WebSocket protocol service</ICF_DOCU>
+   </ICFDOCU>
+  </asx:values>
+ </asx:abap>
+</abapGit>

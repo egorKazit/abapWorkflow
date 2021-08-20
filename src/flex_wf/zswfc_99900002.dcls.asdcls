@@ -1,0 +1,11 @@
+@EndUserText.label: 'Generated: Flex Workflow CDS DCL0 for scenario WS99900002'
+@MappingRole: true
+define role ZSWFC_99900002 {
+  grant
+    select
+      on
+        ZSWFC_99900002
+          where
+            WorkflowId IS NULL AND
+            WorkflowId IS NOT NULL;
+}

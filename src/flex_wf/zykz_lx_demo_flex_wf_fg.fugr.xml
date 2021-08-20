@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>LeverX Demo: Function group for WF</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZYKZ_LX_DEMO_FLEX_WF_FGTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZYKZ_LX_DEMO_FLEX_WF_FG</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZYKZ_LX_DEMO_SEND_NOTIFICAION</FUNCNAME>
+     <REMOTE_CALL>R</REMOTE_CALL>
+     <SHORT_TEXT>LeverX Demo: FM to send Notification</SHORT_TEXT>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>I_PARAMETERS</PARAMETER>
+       <TYP>CHAR255</TYP>
+      </RSIMP>
+     </IMPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>I_PARAMETERS</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Structure for Insert Approver action</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SAPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SAPC>
+    <HEADER>
+     <APPLICATION_ID>ZYKZ_LX_DEMO_TCP_CHANNEL</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <PATH>/sap/bc/apc/sap/zykz_lx_demo_tcp_channel</PATH>
+     <CLASS_NAME>ZCL_YKZ_LX_DEMO_AWE_TCP_CHNNL</CLASS_NAME>
+     <APPLICATION_VERSION>1</APPLICATION_VERSION>
+     <CONNECTION_TYPE>T</CONNECTION_TYPE>
+    </HEADER>
+    <TEXT>
+     <APPLICATION_ID>ZYKZ_LX_DEMO_TCP_CHANNEL</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <LANG>E</LANG>
+     <DESCRIPTION>LeverX Demo: TCP Channel</DESCRIPTION>
+    </TEXT>
+   </SAPC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
